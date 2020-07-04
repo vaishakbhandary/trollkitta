@@ -35,7 +35,7 @@ header h1{
   
 }
 .meme1{
-  dispaly:flex;
+  display:flex;
   align-items:center;
   padding:15px;
 }
